@@ -14,7 +14,7 @@ public class loginfunction {
 
 	@When("user is providing\"iprashantdhakne@gmail.com\" & {string}")
 	public void user_is_providing_iprashantdhakne_gmail_com(String string) {
-		// Write code here that turns the phrase above into concrete actions
+		// Write code here that turns the phrase above into concrete actions..
 		throw new io.cucumber.java.PendingException();
 	}
 
